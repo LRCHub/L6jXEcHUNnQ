@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "沈む体は空へ溢れて",
+  "base_artist": "君島大空",
+  "createdAt": "2026-02-13T22:57:32.794653Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "沈む体は空へ溢れて",
+      "artist": "君島大空",
+      "has_synced": false,
+      "path": "select/pl_01_沈む体は空へ溢れて_君島大空.txt"
+    }
+  ]
+}
